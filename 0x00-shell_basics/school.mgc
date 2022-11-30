@@ -1,1 +1,1 @@
-printf "0\ts\tSTRING\tSchoolData\n:!mime\tSchool"
+printf "0\ts\tSTRING\tSchoolData\n:!mime\tSchool" > school
